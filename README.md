@@ -143,4 +143,5 @@ e inicia sesión.
 
 ---
 
-> Este planea ser desarrollado como **Tesis de Grado** para optar al título de Ingeniero de Sistemas.
+> Este planea ser
+ desarrollado como **Tesis de Grado** para optar al título de Ingeniero de Sistemas.
